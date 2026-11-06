@@ -1,0 +1,8 @@
+Equipo: IBONYE
+Sistema: Windows_NT 10.0.26200 x64
+Usuario: potxi
+Procesador: Intel(R) Core(TM) Ultra 7 155H (22 CPUs)
+Memoria total: 31.43 GB
+Memoria libre: 14.70 GB
+Memoria usada: 53%
+Tiempo activo: 25h 50m
