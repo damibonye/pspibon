@@ -1,0 +1,14 @@
+{
+  "name": "pspibon",
+  "version": "1.0.0",
+  "description": "Ejercicios de Node.js con os, fs y picocolors",
+  "type": "commonjs",
+  "scripts": {
+    "ej1": "node ejercicio1-informe-sistema/sistema.js",
+    "ej2": "node ejercicio2-explorador-carpetas/listar.js",
+    "ej3": "node ejercicio3-informe-archivo/informe.js"
+  },
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
+}
