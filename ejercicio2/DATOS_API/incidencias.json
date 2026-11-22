@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "H001",
+    "titulo": "Fuga de aceite",
+    "prioridad": "Alta",
+    "fecha": "2026-10-31T00:00:00",
+    "descripcion": "Se observa aceite bajo la máquina al iniciar el turno.",
+    "estado": "Pendiente"
+  },
+  {
+    "codigo": "H002",
+    "titulo": "Pantalla parpadeante",
+    "prioridad": "Media",
+    "fecha": "2026-11-02T00:00:00",
+    "descripcion": "El monitor del puesto 3 parpadea de forma intermitente.",
+    "estado": "Pendiente"
+  },
+  {
+    "codigo": "H003",
+    "titulo": "Luz fundida en pasillo",
+    "prioridad": "Baja",
+    "fecha": "2026-11-03T00:00:00",
+    "descripcion": "Hay un fluorescente fundido en el pasillo de la zona B.",
+    "estado": "Pendiente"
+  }
+]
